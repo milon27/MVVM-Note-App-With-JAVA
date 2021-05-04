@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#F09A3E</color>
+    <color name="colorAccent">#F09A3E</color>
+    <color name="colorLightAccent">#F8BB75</color>
+
+    <color name="tintColor">#F09A3E</color>
+
+    <color name="whiteBgcolor">#fcfcfc</color>
+
+
+    <color name="textColorHint">#ACACAC</color>
+    <color name="textColorBlack">#484848</color>
+</resources>
