@@ -1,3 +1,11 @@
 ### MVVM Note app with Java
 
-[!screenshot](screenshot.png)
+>> used technology
+
+* MMVM architectural pattern
+* NoSql offline db(paperdb)
+
+
+>> app screenshot
+
+![alt text](screenshot.png)
